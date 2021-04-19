@@ -2,7 +2,6 @@ import React from "react";
 import {
   Checkbox,
   IconButton,
-  List,
   ListItem,
   Typography,
 } from "@material-ui/core";

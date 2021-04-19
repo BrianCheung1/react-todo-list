@@ -25,7 +25,6 @@ function TodoForm({ addTodo }) {
     <form className= "todo-form" onSubmit={handleSubmit}>
       <TextField
         label="Task"
-        name="task"
         type="text"
         value={todo.task}
         onChange={handleTaskInputChange}
